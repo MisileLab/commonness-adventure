@@ -1,6 +1,6 @@
 MisileLab License V1.5
 ```
-Author Information : Project by Author
+Author Information : Commonness adventure by misilelaboratory and dragonpang
 ```
 
 # derivative works condition
